@@ -25,7 +25,12 @@ feature_row:
 # Delete the previous lines if you prefer not to have a feature row
 ---
 
-Include a long description about yourself and this website.
+## Welcome to my website!
+
+I am a professor of psychology at [Ponce Health Sciences University (PHSU)] (https://www.psm.edu/) in Puerto Rico. 
+
+I also conduct research on cognition, learning, and technology in the Cognition, Learning, and Technology Lab of PHSU Neuro-Cognitive Laboratory. 
+
 
 
 
