@@ -4,25 +4,23 @@ author_profile: true
 permalink: /
 title: Welcome!
 
-# Delete next lines if you prefer not to have a feature row
 feature_row_title: Academic Interests
 feature_row:
   - image_path: /images/p1.jpg
-    alt: "Academic interest 1"
-    title: "Academic interest 1"
+    alt: "Interest in Research"
+    title: "Research methods & Data analysis"
     excerpt:
-        "This is a description of item 1"
+        "I am interested in developing new methods for improving data collection and analysis."
   - image_path: /images/p1.jpg
-    alt: "Academic interest 2"
-    title: "Academic interest 2"
+    alt: "Interest in Science"
+    title: "Open science & Philosophy of science"
     excerpt:
-        "This is a description of item 2"
+        "I am an advocate of open science and promote conversations about how to improve the way we do science."
   - image_path: /images/p1.jpg
-    alt: "Academic interest 3"
-    title: "Academic interest 3"
+    alt: "Interest in Coding"
+    title: "Coding & Research software"
     excerpt:
-        "This is a description of item 3"
-# Delete the previous lines if you prefer not to have a feature row
+        "I develop software tools to improve and simplify research on my topics of interest."
 ---
 
 ## Welcome to my website!
