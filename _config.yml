@@ -12,42 +12,42 @@
 # Basic info
 ##################################################
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Mario E Bermonti-Pérez"
 subtitle                 : # site tagline that appears below site title in masthead
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Mario E Bermonti-Pérez"
+description              : "My personal webpage and blog for sharing my academic information and ideas."
 
 # Site Author info
 ##################################################
 author:
-  name             : "Your Name"
+  name             : "Mario E Bermonti-Pérez"
   avatar           : "/assets/images/bio-photo.png"
-  bio              : "My very short description"
-  location: "Somewhere"
+  bio              : "Professor of psychology at Ponce Health Sciences University"
+  location: "Puerto Rico"
   #links that appear in the authors navigation sidebar
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square fa-lg"
-      url: "mailto:your_email@email.com"
+      url: "mailto:mbermonti@psm.edu"
     - label: "ResearchGate"
       icon: "fab fa-researchgate fa-lg"
-      url: "https://www.researchgate.net/"
+      url: "https://www.researchgate.net/profile/Mario-Bermonti-Perez"
     - label: "ORCID"
       icon: "fab fa-orcid fa-lg"
-      url: "https://orcid.org/"
+      url: "https://orcid.org/0000-0001-5228-2538"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar-square"
-      url: "https://scholar.google.com/"
+      url: "http://scholar.google.com/citations?user=4StcUcEAAAAJ&hl=en"
     - label: "LinkedIn"
       icon: "fab fa-linkedin fa-lg"
-      url: "https://LinkedIn.com/"
+      url: "https://pr.linkedin.com/in/mario-bermonti-p%C3%A9rez-286b943b"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square fa-lg"
-      url: "https://twitter.com/"
+      url: "https://mobile.twitter.com/m_bermonti"
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-lg"
-      url: "https://github.com/"
+      url: "https://github.com/mario-bermonti"
 
 # Social Sharing
 ##################################################
