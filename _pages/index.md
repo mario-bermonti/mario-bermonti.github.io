@@ -20,7 +20,7 @@ feature_row:
     alt: "Interest in Coding"
     title: "Coding & Research software"
     excerpt:
-        "I develop software tools to improve and simplify research on my topics of interest."
+        "I develop easy to use and adapt software tools to improve and simplify research on cognition and learning."
 ---
 
 ## Welcome to my website!
