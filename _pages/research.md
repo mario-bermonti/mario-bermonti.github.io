@@ -27,4 +27,4 @@ these tools should minimize the burden of clinicians and students.
 
 As part of these lines of research I develop software tools to improve the way we research
 these topics. More information can be found in
-the <a href="{{ site.url }}{{ site.baseurl }}/software.md">Software section</a>.
+the <a href="{{ site.url }}{{ site.baseurl }}/software">Software section</a>.
