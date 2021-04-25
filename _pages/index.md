@@ -25,12 +25,9 @@ feature_row:
 
 ## Welcome to my website!
 
-I am a professor of Psychology at [Ponce Health Sciences University](https://www.psm.edu/) in Puerto Rico. 
+I am an Assistant Professor at [Ponce Health Sciences University](https://www.psm.edu/) in Puerto Rico. I teach courses about research methods and research skills in the School of Behavioral and Brain Sciences.
 
-I also conduct research on cognition, learning, and technology in the Cognition, Learning, and Technology Lab of PHSU Neuro-Cognitive Laboratory. 
-
-
-
+My main areas mof research are on cognition, learning, and technology in the Cognition, Learning, and Technology Lab of PHSU Neuro-Cognitive Laboratory. 
 
 
 <!-- Delete next line if you prefer not to have a feature row. -->
