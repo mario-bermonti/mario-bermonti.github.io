@@ -7,5 +7,5 @@ layout: software
 
 
 This is a selective list of software projects that I maintain 
-or contribute to. You can find a more complete list at Github.
+or contribute to. Please see Github to find a more complete list.
 
