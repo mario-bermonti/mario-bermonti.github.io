@@ -26,6 +26,5 @@ performance and adjust themselves in order to match that person's needs. Just as
 these tools should minimize the burden of clinicians and students.
 
 As part of these lines of research I develop software tools to improve the way we research
-these topics. More information can be found in the [Software section][software_section].
-
-[software_section]: <a href="{{ site.url }}{{ site.baseurl }}/_pages/software.md">Software section</a>
+these topics. More information can be found in
+the <a href="{{ site.url }}{{ site.baseurl }}/software.md">Software section</a>.
