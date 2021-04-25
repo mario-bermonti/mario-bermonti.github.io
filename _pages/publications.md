@@ -6,4 +6,4 @@ layout: publications
 ---
 
 This is a selective list of my publications. You can find a more complete
-list at my research platforms.
+list in my research platforms.
