@@ -24,6 +24,7 @@ A better understanding of how cognition supports reading and spelling skills wil
 to the development of better intervention tools that can gather data about the person's
 performance and adjust themselves in order to match that person's needs. Just as in research,
 these tools should minimize the burden of clinicians and students.
-rt of these lines of research I develop software tools to improve the way we research
+
+As part of these lines of research I develop software tools to improve the way we research
 these topics. You can find more information in
 the <a href="{{ site.url }}{{ site.baseurl }}/software">Software section</a>.
