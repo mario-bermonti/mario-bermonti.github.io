@@ -5,5 +5,4 @@ permalink: /publications/
 layout: publications
 ---
 
-This is a selective list of my publications. You can find a more complete
-list at my research platforms.
+This is a selective list of my publications. Please see my research platforms for a more complete list. 
