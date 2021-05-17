@@ -1,6 +1,6 @@
 ---
-title: "Name of my blog"
-excerpt: "Personal blog about how coding and research"
+title: "Coding cognitive research”
+excerpt: "Personal blog about coding and research"
 permalink: /blog/
 layout: recent-posts
 ---
