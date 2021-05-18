@@ -4,6 +4,8 @@ layout: archive
 
 {{ content }}
 
+{% if site.posts %}
+
 <h2>Recent Posts</h2>
 {% for post in site.posts offset:1 limit:5 %}
 {% include archive-single.html type=page.entries_layout %}
@@ -16,3 +18,5 @@ layout: archive
 </h3>
 
 <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
+{% endif %}
