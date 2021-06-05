@@ -1,5 +1,5 @@
 ---
-title: "Coding cognitive research”
+title: "Coding cognitive research"
 excerpt: "Personal blog about coding and research"
 permalink: /blog/
 layout: recent-posts
