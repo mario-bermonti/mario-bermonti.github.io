@@ -6,19 +6,19 @@ title: Welcome!
 
 feature_row_title: Academic Interests
 feature_row:
-  - image_path: ../assets/images/methods_stats.jpeg
+  - image_path: /assets/images/methods_stats.jpeg
     alt: "Interest in Research"
     image_caption: [Designed by Freepik](http://www.freepik.com/)
     title: "Research methods & Data analysis"
     excerpt:
         "I am interested in developing new methods for improving data collection and analysis."
-  - image_path: ../assets/images/science.jpeg
+  - image_path: /assets/images/science.jpeg
     alt: "Interest in Science"
     image_caption: [Designed by Freepik](http://www.freepik.com/)
     title: "Open science & Philosophy of science"
     excerpt:
         "I am an advocate of open science and promote conversations about how to improve the way we do science."
-  - image_path: ../assets/images/coding.jpeg
+  - image_path: /assets/images/coding.jpeg
     alt: "Interest in Coding"
     image_caption: [Designed by Freepik](http://www.freepik.com/)
     title: "Coding & Research software"
