@@ -22,7 +22,7 @@ description              : "My personal webpage and blog for sharing my academic
 ##################################################
 author:
   name             : "Mario E Bermonti-Pérez"
-  avatar           : "/assets/images/bio-photo.jpeg"
+  avatar           : "/images/bio-photo.jpeg"
   bio              : "Researcher and professor of Psychology"
   location: "Puerto Rico"
   #links that appear in the authors navigation sidebar
