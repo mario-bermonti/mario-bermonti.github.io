@@ -28,3 +28,5 @@ these tools should minimize the burden of clinicians and students.
 As part of these lines of research I develop software tools to improve the way we research
 these topics. You can find more information in
 the <a href="{{ site.url }}{{ site.baseurl }}/software">Software section</a>.
+
+## **Here is a list of ongoing  research projects:**
